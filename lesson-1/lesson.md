@@ -4,8 +4,8 @@ In this lesson, students will investigate the factors that affect the rate of ch
 
 ##Learning objectives
 
-- Understand that chemical reactions occur when there are successful collision between reacting particles.
-- Understand that temperature and concentration affect the rate of chemical reaction and that this can be explained through a particle model.
+- Understand that chemical reactions occur when there are successful collision between reacting particles
+- Understand that temperature and concentration affect the rate of chemical reaction and that this can be explained through a particle model
 
 ##All students are able to
 
@@ -21,18 +21,18 @@ In this lesson, students will investigate the factors that affect the rate of ch
 
 - Calculate the rate of chemical reaction based on the time taken for a reaction to occur
 - Explain in detail using a particle model how concentration and temperature affect the rate of reaction
-- Evaluate their experimental method and suggest improvements to get more reliable results.
+- Evaluate their experimental method and suggest improvements to get more reliable results
 
 ##Lesson Summary
 
-- Students will setup the Sense HAT to collect times taken for the reaction to go cloudy
+- Students will set up the Sense HAT to collect times taken for the reaction to go cloudy
 - Students will investigate the reaction between sodium thiosulphate at different temperatures and different concentrations
 - Students will plot a graph of the average reaction time
 
 ##Starter
 
-- Recap with students the different between a chemical reaction and a physical change.  Identify observations we could make to see if a chemical reaction is happening.
-- Make a list of slow and fast chemical reactions, such as a nail rusting or a firework exploding.
+- Recap with students the different between a chemical reaction and a physical change.  Identify observations we could make to see if a chemical reaction is happening
+- Make a list of slow and fast chemical reactions, such as a nail rusting or a firework exploding
 
 ##The Data Logger
 
@@ -74,12 +74,12 @@ In this lesson, students will investigate the factors that affect the rate of ch
 - Using a suitable spreadsheet package open the files created during the experiments.  Students will have generated one file per experiment.
 - For each trial the following information is recorded: concentration of hydrochloric acid, temperature and time taken for the cross to disappear.
 - Using the data for each trial students can calculate the average temperature (if needed) and the average time taken.
-- Once this process has been completed for all of the experiments student will have a set of reaction times (dependent variable) and either average temperature or concentration. Students can then use these results to plot a graph of the reaction time against the dependent variable.
+- Once this process has been completed for all of the experiments, students will have a set of reaction times (dependent variable) and either average temperature or concentration. Students can then use these results to plot a graph of the reaction time against the dependent variable.
 
 
 ##Plenary
 
-Ask students to identify the trend in the results.  As the independent variable was changed what happened to the time taken for the cross to disappear? What conclusions can be written about how the independent variable affected the rate of reaction?
+Ask students to identify the trend in the results. As the independent variable was changed what happened to the time taken for the cross to disappear? What conclusions can be drawn about how the independent variable affected the rate of reaction?
 
 
 ##Extension

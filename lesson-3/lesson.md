@@ -48,14 +48,15 @@ In this lesson students will investigate how different coloured surfaces affect 
 
 1. Wrap a Raspberry Pi and Sense HAT in black paper.
 
-![surfaces1](images/surfaces1.png)
+ ![surfaces1](images/surfaces1.png)
+ 
 1. Place the table lamp on a heat-proof mat and position a table lamp 30cm away from it.
 1. Start the code and enter a suitable filename for the results.
 1. Enter the number of results required and the interval between each measurement.
 1. Switch on the table lamp and press enter on the keyboard (or the button on the Sense HAT)
 1. Once the results have been collected they will be written to a file which can be analyzed.
 1. Replace the black paper with silver foil and repeat the steps above.
-![surfaces3](images/surfaces3.png)
+ ![surfaces3](images/surfaces3.png)
 
 ##Analysis of the results
 

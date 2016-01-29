@@ -36,7 +36,7 @@ In this lesson students will investigate how different coloured surfaces affect 
 
 ##The Data Logger
 
-- To access the resources for this investigation, open a LXTerminal and type `sudo python3 cans.py`
+- To access the resources for this investigation, open LXTerminal and type `sudo python3 cans.py`
 
 ##Measuring 
 

@@ -61,8 +61,6 @@ In this lesson students will investigate the
 1. Replace the black paper with silver foil and repeat the steps above.
 ![silver_paper](images/silver.png)
 
-Images to be inserted here.
-
 ##Analysis of the results
 
 - Once the results have been saved the file can be accessed by importing into a spreadsheet or by printing out the raw data file.
@@ -80,7 +78,7 @@ Images to be inserted here.
 
 ##Risk assessment
 
-In addition to the points below a full risk assessment should be carried out by institution using this experiment.
+In addition to the points below, a full risk assessment should be carried out by institution using this experiment.
 
 - The Raspberry Pi and Sense HAT must be placed in a sandwich bag to avoid any water touching the equipment.
-- When wrapping the Sense HAT and Raspberry Pi in silver foil it is important to prevent a short circuit by wrapping the Pi in a non-conductive material such as clingfilm.
+- When wrapping the Sense HAT and Raspberry Pi in silver foil, it is important to prevent a short circuit by first wrapping the Pi in a non-conductive material such as clingfilm.

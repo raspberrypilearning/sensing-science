@@ -36,7 +36,7 @@ In this lesson, students will investigate the factors that affect the rate of ch
 
 ##The Data Logger
 
-- To access the resources for this investigation, open a LXTerminal and type: `sudo python3 rates.py`
+- To access the resources for this investigation, open LXTerminal and type `sudo python3 rates.py`
 
 ##Measuring 
 

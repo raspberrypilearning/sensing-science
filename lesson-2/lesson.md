@@ -12,7 +12,7 @@ In this lesson students will investigate the
 ##All students are able to
 
 - Measure the temperature of different objects 
-- Identify that all hot object emit IR radiation as they cool
+- Identify that all hot objects emit IR radiation as they cool
 
 ##Most students are able to
 

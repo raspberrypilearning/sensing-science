@@ -38,22 +38,22 @@ In this lesson students will investigate the
 
 ##The Data Logger
 
-- To access the resources for this investigation, open a LXTerminal and type:`sudo python3 cooling.py'
+- To access the resources for this investigation, open a LXTerminal and type `sudo python3 cooling.py`
 
 ##Measuring 
 
 1. Explain to students that the Sense HAT contains sensors that can measure temperature
 
-1. Setup the apparatus to measure the temperature of the Sense Hat at cools down.  The heat source for this experiment will come from a hot water bottle.  Other surfaces can be used and should be risk assessed before starting the experiment.
+1. Set the apparatus up to measure the temperature of the Sense HAT as it cools down.  The heat source for this experiment will be a hot water bottle. Other surfaces can be used and a risk assessment should be performed before starting the experiment.
 
 ##Carrying out the experiment
 
 1. Heat up water in a kettle and fill up the hot water bottle carefully ensuring than any air is released before screwing the lid on.
 1. Wrap a Raspberry Pi in a sandwich bag.
 1. Wrap the Raspberry Pi in black paper.
-![black_paper](images/black.png)
+  ![black_paper](images/black.png)
 1. Start the code and enter a suitable filename for the results.
-1. Allow the Raspberry Pi and Sense HAT to warm up for approximately 10 minutes
+1. Allow the Raspberry Pi and Sense HAT to warm up for approximately ten minutes
 1. When instructed remove the heat source and rewrap the Pi
 1. Enter the number of results required and the interval between each measurement.
 1. Leave the Raspberry Pi and Sense HAT to cool down.

@@ -50,7 +50,7 @@ Using a suitable spreadsheet, import both sets of data and produce a line graph 
 
 ![tidy_results](images/neat_results.png)
 
-- Using the average function to calculate the average temperature and time taken
+- Use the average function to calculate the average temperature and time taken
 
 ![average_time](images/average.png)
 ![average_temp](images/average_temp.png)

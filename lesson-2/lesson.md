@@ -54,10 +54,10 @@ In this lesson students will investigate the
   ![black_paper](images/black.png)
 1. Start the code and enter a suitable filename for the results.
 1. Allow the Raspberry Pi and Sense HAT to warm up for approximately ten minutes
-1. When instructed remove the heat source and rewrap the Pi
+1. When instructed, remove the heat source and rewrap the Pi
 1. Enter the number of results required and the interval between each measurement.
 1. Leave the Raspberry Pi and Sense HAT to cool down.
-1. Once the results have been collected they will be written to a file which can be analyzed with Excel.
+1. Once the results have been collected, they will be written to a file which can be analyzed with Excel.
 1. Replace the black paper with silver foil and repeat the steps above.
 ![silver_paper](images/silver.png)
 

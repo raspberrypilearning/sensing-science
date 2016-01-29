@@ -1,21 +1,21 @@
-By creating a something with your Raspberry Pi students will learn:
+By following this resource, students will learn:
 
-- how to collect reaction times to calculate rates of reactions
-- how concentration and temperature affect the rate of chemical reaction
-- Understand that heat can be transfered by hot objects emitting IR radiation
-- Understand that different materials emit IR radiation and different rates
-- To create cooling curves from CSV data 
-- Understand that absorption of IR causes objects to become hot 
-- Understand that different materials absorb different amounts of IR radiations 
-- Understand that the transfer of heat can be stopped by an insulator
-- Understand that some materials are better at insulating than others
-- Fermentation is the process of converting sugar and water into alcohol
+- How to collect reaction times to calculate rates of reactions
+- How concentration and temperature affect the rate of chemical reaction
+- That heat can be transfered by hot objects emitting IR radiation
+- That different materials emit IR radiation and different rates
+- How to create cooling curves from CSV data 
+- That absorption of IR causes objects to become hot 
+- That different materials absorb different amounts of IR radiations 
+- That the transfer of heat can be stopped by an insulator
+- That some materials are better at insulating than others
+- That fermentation is the process of converting sugar and water into alcohol
 - The rate of fermentation is dependent on factors such as the temperature of the yeast
-- Investigations using insects have to be carried out with consideration for the health of the insect.
+- That investigations using insects have to be carried out with consideration for the health of the insect.
 - How to plan an investigation to find out what colour habitats are preferred by different insects.
-- Interpret results from choice chamber experiments
+- How to interpret results from choice chamber experiments
 - How to measure temperature and humidity data using the Sense Hat
-- The products of aerobic respiration
+- What the products of aerobic respiration are
 - How humidity and temperature are affected by aerobic respiration
-- The stopping distance of a car is affected by both the thinking distance and braking distance.
-- The factors which affect both the thinking distance and the braking distance.
+- That the stopping distance of a car is affected by both the thinking distance and braking distance.
+- About the factors which affect both the thinking distance and the braking distance.

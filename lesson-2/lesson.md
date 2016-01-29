@@ -27,7 +27,7 @@ In this lesson students will investigate the
 
 ##Lesson Summary
 
-- Students will setup the Sense Hat to record temperatures of a hot water bottle cooling
+- Students will set up the Sense HAT to record temperatures of a hot water bottle cooling
 - Students will record temperatures of silver and black objects cooling down
 - Students will plot a scatter graph of their results from a CSV file recorded during the experiment
 
@@ -42,7 +42,7 @@ In this lesson students will investigate the
 
 ##Measuring 
 
-1. Explain to students that the Sense Hat contains sensors that can measure temperature
+1. Explain to students that the Sense HAT contains sensors that can measure temperature
 
 1. Setup the apparatus to measure the temperature of the Sense Hat at cools down.  The heat source for this experiment will come from a hot water bottle.  Other surfaces can be used and should be risk assessed before starting the experiment.
 
@@ -53,10 +53,10 @@ In this lesson students will investigate the
 1. Wrap the Raspberry Pi in black paper.
 ![black_paper](images/black.png)
 1. Start the code and enter a suitable filename for the results.
-1. Allow the Raspberry Pi and Sense Hat to warm up for approximately 10 minutes
+1. Allow the Raspberry Pi and Sense HAT to warm up for approximately 10 minutes
 1. When instructed remove the heat source and rewrap the Pi
 1. Enter the number of results required and the interval between each measurement.
-1. Leave the Raspberry Pi and Sense Hat to cool down.
+1. Leave the Raspberry Pi and Sense HAT to cool down.
 1. Once the results have been collected they will be written to a file which can be analyzed with Excel.
 1. Replace the black paper with silver foil and repeat the steps above.
 ![silver_paper](images/silver.png)
@@ -82,5 +82,5 @@ Images to be inserted here.
 
 In addition to the points below a full risk assessment should be carried out by institution using this experiment.
 
-- The Raspberry Pi and Sense Hat must be placed in a sandwich bag to avoid any water touching the equipment.
-- When wrapping the Sense Hat and Raspberry Pi in silver foil it is important to prevent a short circuit by wrapping the Pi in a non-conductive material such as clingfilm.
+- The Raspberry Pi and Sense HAT must be placed in a sandwich bag to avoid any water touching the equipment.
+- When wrapping the Sense HAT and Raspberry Pi in silver foil it is important to prevent a short circuit by wrapping the Pi in a non-conductive material such as clingfilm.

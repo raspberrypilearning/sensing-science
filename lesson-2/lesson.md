@@ -38,7 +38,7 @@ In this lesson students will investigate the
 
 ##The Data Logger
 
-- To access the resources for this investigation, open a LXTerminal and type `sudo python3 cooling.py`
+- To access the resources for this investigation, open LXTerminal and type `sudo python3 cooling.py`
 
 ##Measuring 
 

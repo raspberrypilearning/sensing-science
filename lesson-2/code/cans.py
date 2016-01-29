@@ -10,7 +10,7 @@ file_name = input("file name for results ")
 material = input ("Black or Silver? ")
 interval = float(input ("How much time do you want between each measurement "))
 measurements = float(input("How many measurements do you want to take "))
-time_delay = float(input("Time before measurements start, I suggest 5 minutes"))
+time_delay = float(input("Time before measurements start? I suggest 5 minutes"))
 
 f = open(file_name, "w")
 
@@ -20,7 +20,7 @@ print ("Waiting for Raspberry Pi to warm up")
 
 time.sleep(time_delay)
 
-print ("Remove the heat source from the Raspberry Pi and Sense Hat")
+print ("Remove the heat source from the Raspberry Pi and Sense HAT")
 
 while counter <= measurements:
 

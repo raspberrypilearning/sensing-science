@@ -1,7 +1,7 @@
 #Investigating Rates of reaction
 #Spencer Organ - KESH Academy
 
-#Place the Sense Hat in a small plastic zip-lock sandwich bag
+#Place the Sense HAT in a small plastic zip-lock sandwich bag
 
 from sense_hat import SenseHat
 sense = SenseHat()

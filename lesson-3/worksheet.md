@@ -28,11 +28,11 @@ Using a suitable spreadsheet, import both sets of data and produce a line graph 
 
   ![import1](images/import.png)
 
-- Import the second set of results and again use the pipe symbol to separate each column of results. This time append the rows to the current sheet.
+- Import the second set of results and again use the pipe symbol to separate each column of results. This time, append the rows to the current sheet.
 
   ![import2](images/import2.png)
 
-- You will now have two sets of results on the same sheet. Copy and paste the second set of results and tidy up the column heading and remove rows no longer needed.
+- You will now have two sets of results on the same sheet. Copy and paste the second set of results, tidy up the column headings, and remove rows no longer needed.
 
   ![results1](images/results.png)
   ![results2](images/new_results.png)

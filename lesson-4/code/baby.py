@@ -15,14 +15,14 @@ f = open(file_name, "w")
 
 counter = 0
 
-print ("Waiting for the Baby to warm up. This will take 5 minutes")
+print ("Waiting for the baby to warm up. This will take 5 minutes")
 
 #time.sleep(270)
 
 print ("Get ready to remove the baby (the heat source) from the Raspberry Pi")
 #time.sleep(30)
 
-print ("Remove the heat source from the Raspberry Pi and Sense Hat")
+print ("Remove the heat source from the Raspberry Pi and Sense HAT")
 
 while counter <= measurements:
     temp = round(sense.get_temperature(),2)

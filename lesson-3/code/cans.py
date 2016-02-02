@@ -1,7 +1,7 @@
 #Investigating Black and Silver cans
 #Spencer Organ - KESH Academy
 
-#Wrap the Sense Hat in either black paper or silver foil.  Ensure that you know which way is up!
+#Wrap the Sense HAT in either black paper or silver foil. Ensure that you know which way is up!
 
 from sense_hat import SenseHat
 sense = SenseHat()

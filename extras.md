@@ -1,8 +1,8 @@
 You'll also need:
 
 - Sodium thiosulphate
-- Conical Flask
-- Measuring Cylinders
+- Conical flask
+- Measuring cylinders
 - Black paper
 - Sandwich bags
 - Silver foil

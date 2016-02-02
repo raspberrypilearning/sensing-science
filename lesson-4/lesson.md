@@ -58,7 +58,7 @@ In this lesson students will investigate the
 ##Analysis of the results
 
 - Once the results have been saved the file can be accessed by importing into a spreadsheet or by printing out the raw data file.
-- Students to plot a graph of the temperature against time.
+- Students to plot a graph of temperature change against time.
 
 ##Plenary
 

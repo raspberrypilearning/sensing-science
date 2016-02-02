@@ -1,6 +1,6 @@
 #Black and Silver cans
 
-In this lesson students will investigate the 
+In this lesson students will investigate the rate of heat loss through infra-red emission, and the insulating properites of different materials.
 
 ##Learning objectives
 

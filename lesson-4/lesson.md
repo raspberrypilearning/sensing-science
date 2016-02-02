@@ -1,6 +1,6 @@
 #Keeping baby warm
 
-In this lesson students will investigate the 
+In this lesson students will investigate the effect of insulators on the rate of heat loss from an object.
 
 ##Learning objectives
 

@@ -20,7 +20,6 @@ In this lesson we will investigate what how temperature affects the rate of ferm
 
 - Explain how temperature affects the fermentation of glucose.
 
-
 ##Lesson Summary
 
 - Students will carry out an investigation to find out the optimum temperature for the fermentation of yeast 
@@ -49,11 +48,11 @@ From LXTerminal type: `sudo python3 fermentation.py` 
 - Attach the balloon to the conical flask and place in a water bath at 25 degrees centigrade
 - Start the python code 
 - Leave the flask in the water bath for the next hour
-- Mount the Raspberry Pi camera in a clamp stand.  In this example I have attached it to a drinking straw.
+- Mount the Raspberry Pi camera in a clamp stand. In this example, we have attached it to a drinking straw.
 
 ![set_up](images/ferm1.png)
 
-- The Raspberry Pi will take a photo of the reaction mixture every 5 minutes for 1 hour
+- The Raspberry Pi will take a photo of the reaction mixture every five minutes for one hour
 
 ![set_up](images/ferm3.png)
 ![set_up](images/ferm4.png)
@@ -65,8 +64,8 @@ From LXTerminal type: `sudo python3 fermentation.py` 
 
 ##Analysis of the results
 
-- Open the folder called science_task5, there will be a timelapse series of photos for each temperature.
-- Using a ruler measure the maximum diameter of the balloon in each photo and record on a table. Each photo was taken with a 5 minute interval.
+- Open the folder called science_task5; there will be a timelapse series of photos for each temperature.
+- Using a ruler measure the maximum diameter of the balloon in each photo and record on a table. Each photo was taken with a five minute interval.
 - Plot a graph of balloon diameter against time for each temperature. 
 
 

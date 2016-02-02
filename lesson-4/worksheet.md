@@ -27,8 +27,6 @@ Heat is lost from hot objects. Sometimes we want to stop this heat being lost an
 
 Using a suitable spreadsheet import your data and produce a line graph showing how the material cooled down.
 
-Instructions using Google Sheets
-
 - Log into Google Sheets and start a new sheet
 
 ![spread_sheet](images/spread_sheet.png)

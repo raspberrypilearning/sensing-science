@@ -4,7 +4,7 @@ In this lesson you are going to investigate how good different materials are at 
 
 ##Theory 
 
-Heat is lost from hot objects.  Sometimes we want to stop this heat being lost and we can use a material called an insulator.  In this investigation we will find out what types of materials make the best insulators and can be used to keep a new born baby warm.
+Heat is lost from hot objects.  Sometimes we want to stop this heat being lost and we can use a material called an insulator.  In this investigation we will find out what types of materials make the best insulators and can be used to keep a new-born baby warm.
 
 ##Experiment  
 

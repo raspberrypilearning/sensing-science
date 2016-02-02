@@ -42,7 +42,7 @@ From LXTerminal type: `sudo python3 respiration.py` 
 
 ##Measuring the temperature and humidity change
 
-1. Explain to students that the Sense Hat contains sensors that can measure temperature and humidity.  We could simply blow onto the sensor before and after doing exercise to measure the changes but this could produce unreliable results. 
+1. Explain to students that the Sense HAT contains sensors that can measure temperature and humidity. We could simply blow onto the sensor before and after doing exercise to measure the changes but this could produce unreliable results. 
 
 1. Setup the apparatus to measure the temperature and humidity.  You will need a large zip-lock sandwich bag and a clean and new drinking straw, the jumbo ones from IKEA work well. Ensure that the sandwich bag is dry. Place the Raspberry Pi with Sense Hat into the sandwich bag. Zip the sandwich bag as close as you can get it but still allowing room for the power, keyboard and HDMI cables. Place a drinking straw into the bag next to the cables.
 
@@ -72,7 +72,7 @@ From LXTerminal type: `sudo python3 respiration.py` 
 
 
 ##Plenary 
-Ask students to present their findings to the class.  What did they notice as they carried out the exercise to the temperature and humidity of their exhaled breath? If more than one group in the class carried out the experiment did they get the same results?
+Ask students to present their findings to the class. What did they notice as they carried out the exercise to the temperature and humidity of their exhaled breath? If more than one group in the class carried out the experiment did they get the same results?
 
 ##Extension
 
@@ -86,4 +86,4 @@ In addition to the points below a full risk assessment should be carried out by 
 - When choosing a student it is important to ensure that they are physically fit and usually engage in PE activities.
 - Ensure that there is plenty of room for the students to carry out the exercise without bumping into other students.
 - A fresh straw should be used for each experiment.
-- The humidity of the bag will cause moisture to form inside the sandwich bags.  To avoid any risk of damage to the Raspberry Pi or to prevent electric shocks the Pi should be removed from the bag as soon as the experiment is completed.
+- The humidity of the bag will cause moisture to form inside the sandwich bags. To avoid any risk of damage to the Raspberry Pi or to prevent electric shocks the Pi should be removed from the bag as soon as the experiment is completed.

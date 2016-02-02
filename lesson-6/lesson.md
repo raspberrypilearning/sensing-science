@@ -66,7 +66,7 @@ Colour patterns
 ##Analysis of the results
 
 - Open the folder containing science_task6. There will be two photos taken with each experiment.
-- Produce a tally chart to count how many insects are in section from the photos.
+- Produce a tally chart to count how many insects are in each section from the photos.
 - Is there sufficient data to identify a clear pattern?
 
 ##Plenary 
@@ -76,7 +76,7 @@ Colour patterns
 ##Extension
 
 - Edit the code to change the patterns / colours used.
-- Does the choice of insect make a difference?
+- Does the species of insect make a difference?
 
 ##Risk assessment
 

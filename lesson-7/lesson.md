@@ -37,42 +37,41 @@ In this lesson, students will investigate the products of aerobic respiration by
 
 ##The Data Logger
 
-- To access the resources for this investigation, open a LXTerminal and type: 
-From LXTerminal type: `sudo python3 respiration.py` 
+- To access the resources for this investigation, open LXTerminal and type: `sudo python3 respiration.py` 
 
 ##Measuring the temperature and humidity change
 
-1. Explain to students that the Sense HAT contains sensors that can measure temperature and humidity. We could simply blow onto the sensor before and after doing exercise to measure the changes but this could produce unreliable results. 
+1. Explain to students that the Sense HAT contains sensors that can measure temperature and humidity. We could simply blow onto the sensor before and after doing exercise to measure the changes but this could produce unreliable results.
 
-1. Setup the apparatus to measure the temperature and humidity.  You will need a large zip-lock sandwich bag and a clean and new drinking straw, the jumbo ones from IKEA work well. Ensure that the sandwich bag is dry. Place the Raspberry Pi with Sense Hat into the sandwich bag. Zip the sandwich bag as close as you can get it but still allowing room for the power, keyboard and HDMI cables. Place a drinking straw into the bag next to the cables.
+1. Setup the apparatus to measure the temperature and humidity. You will need a large zip-lock sandwich bag and a clean and new drinking straw. Ensure that the sandwich bag is dry. Place the Raspberry Pi with Sense HAT into the sandwich bag. Zip the sandwich bag as close as you can get it but still allowing room for the power, keyboard, and HDMI cables. Place a drinking straw into the bag next to the cables.
 
 ##Carrying out the experiment
 
-1. Select a student to carry out the exercise.  If you plan on repeating the experiment several times please ensure you use a clean and dry bag and straw each time. Ensure you have enough room for the student to jog on the spot for 10 seconds.
+1. Select a student to carry out the exercise. If you plan on repeating the experiment several times please ensure you use a clean and dry bag and straw each time. Ensure you have enough room for the student to jog on the spot for ten seconds.
 
-![set_up](images/respiration_1.png)
-![get_ready](images/respiration_2.png)
+  ![set_up](images/respiration_1.png)
+  ![get_ready](images/respiration_2.png)
 
-1. Once the student is ready press the button on the Sense Hat.
+1. Once the student is ready, press the button on the Sense HAT.
 
-- The LED matrix will turn blue
-![blow](images/respiration_3.png)
-- Blow into the straw until it turns yellow
-![stop_blowing](images/respiration_4.png)
-- Jump on the spot 
-- As soon as the LED turns blue again blow into the straw until it goes off
-![stop_blowing](images/respiration_5.png)
+  - The LED matrix will turn blue
+  ![blow](images/respiration_3.png)
+  - Blow into the straw until it turns yellow
+  ![stop_blowing](images/respiration_4.png)
+  - Jump on the spot 
+  - As soon as the LED turns blue again blow into the straw until it goes off
+  ![stop_blowing](images/respiration_5.png)
 
 ##Analysis of the results
 
 - The students will be shown the humidity and temperature at the start of the experiment before doing any exercise.
 - The humidity and temperature will then be displayed again after the exercise.
 - Students will be able to calculate the change in temperature and humidity during the experiment
-- Due to sealing the Raspberry Pi inside a sandwich bag it is possible to produce humidity results over 100%.  These results can still be used to calculate the relative humidity change.
+- Due to sealing the Raspberry Pi inside a sandwich bag it is possible to produce humidity results over 100%. These results can still be used to calculate the relative humidity change.
 
 
 ##Plenary 
-Ask students to present their findings to the class. What did they notice as they carried out the exercise to the temperature and humidity of their exhaled breath? If more than one group in the class carried out the experiment did they get the same results?
+Ask students to present their findings to the class. What changes did they notice, as they carried out the exercise, to the temperature and humidity of their exhaled breath? If more than one group in the class carried out the experiment, did they get the same results?
 
 ##Extension
 

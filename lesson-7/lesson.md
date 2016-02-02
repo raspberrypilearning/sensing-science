@@ -1,11 +1,11 @@
-#Investigating Aerobic Respiration with the Sense Hat
+#Investigating Aerobic Respiration with the Sense HAT
 
-In this lesson students will investigate the products of aerobic respiration by measuring temperature and humidity.
+In this lesson, students will investigate the products of aerobic respiration by measuring temperature and humidity.
 
 ##Learning objectives
 
 - Understand that during aerobic respiration the stored energy in food is released in a chemical reaction.
-- Understand that the products of aerobic respiration are carbon dioxide, water and energy
+- Understand that the products of aerobic respiration are carbon dioxide, water, and energy
 
 ##All students are able to
 

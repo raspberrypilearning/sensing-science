@@ -46,7 +46,7 @@ From LXTerminal type: `sudo python3 fermentation.py` 
 - Measure out 100 ml of apple juice and add a couple of heaped spatulas of sugar and mix well.
 - Add approximately 50 ml of freshly prepared yeast solution.
 - Attach the balloon to the conical flask and place in a water bath at 25 degrees centigrade
-- Start the python code 
+- Start the Python code 
 - Leave the flask in the water bath for the next hour
 - Mount the Raspberry Pi camera in a clamp stand. In this example, we have attached it to a drinking straw.
 

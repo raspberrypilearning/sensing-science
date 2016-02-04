@@ -51,7 +51,7 @@ In this lesson, you will measure your reaction time and use it to investigate th
 - As soon as you see the red traffic light appear, either press the button on the Sense HAT or the Enter key on the keyboard.
 - Your result will be logged.
 - Make a note of how quick your time was and how far you would have travelled.
-- Are you surprised about how far you travelled in that time period?
+- Are you surprised at how far you travelled in that time period?
 
 ## Analysis of the results
 

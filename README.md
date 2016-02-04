@@ -2,7 +2,7 @@
 
 ![](cover.png)
 
-In this resource, students will investigate various concepts from Physics, Chemistry and Biology, using the Raspberry Pi and a Sense HAT. This resource contains lessons appropriate for KS3 and KS4 students, although some may require more supervision that others.
+In this resource, students will investigate various concepts from Physics, Chemistry and Biology, using the Raspberry Pi and a Sense HAT. This resource contains lessons appropriate for KS3 and KS4 students, although some may require more supervision than others.
 
 ## Licence
 

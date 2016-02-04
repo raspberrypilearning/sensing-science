@@ -1,7 +1,7 @@
-##By following these resources students will learn:
+## By following these resources students will learn:
 
-- Understand that heat can be transfered by hot objects emitting IR radiation
-- Understand that different materials emit IR radiation and different rates
+- That heat can be transferred by hot objects emitting IR radiation
+- That different materials emit IR radiation at different rates
 - To create cooling curves from CSV data 
  
 

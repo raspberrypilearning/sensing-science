@@ -1,4 +1,4 @@
-#Investigating Choice chambers
+#Investigating Choice Chambers
 #Spencer Organ - KESH Academy
 
 from picamera import PiCamera
@@ -38,8 +38,8 @@ def take_photo(number):
         camera.stop_preview()
     sense.clear(black)
 
-print ("Place the insects ontop of the LED maxtrix in a petri dish")
-print ("This will cycle through the standard colours taking a photo after 20 seconds")
+print ("Place the insects on top of the LED maxtrix in a petri dish")
+print ("This will cycle through the standard colours, taking a photo after 20 seconds")
 
 
 counter = 1

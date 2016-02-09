@@ -50,7 +50,7 @@ counter = 1
 while counter <= class_size:
 
         student_name = input ("What is your name ")
-        print ("Instruction", '\n', "As soon as you see the green traffic light turn red press the button on the Sense Hat")
+        print ("Instruction", '\n', "As soon as you see the green traffic light turn red press the button on the Sense HAT")
         message1 = input("Press the button when you are ready to start")
         sense.set_pixels(green_on)
         wait = random.randint(3,10)

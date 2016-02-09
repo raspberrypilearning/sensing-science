@@ -1,7 +1,7 @@
 #Investigating Respiration using the Sense Hat
 #Spencer Organ - KESH Academy
 
-#Place the Sense Hat in a plastic zip-lock sandwich bag with a drinking straw sticking out
+#Place the Sense HAT in a plastic zip-lock sandwich bag with a drinking straw sticking out
 
 from sense_hat import SenseHat
 sense = SenseHat()
@@ -26,7 +26,7 @@ B,B,B,b,b,b,B,B
 sense.clear()
 sense.set_pixels(cell)
 
-#Wait until the enter button is pressed on the Sense Hat
+#Wait until the enter button is pressed on the Sense HAT
 
 wait = input("Press<enter> to continue")
 

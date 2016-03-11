@@ -1,0 +1,11 @@
+cloth|0|66.38
+cloth|1|64.47
+cloth|2|63.42
+cloth|3|63.38
+cloth|4|61.47
+cloth|5|58.46
+cloth|6|57.53
+cloth|7|55.46
+cloth|8|53.4
+cloth|9|52.44
+cloth|10|50.44

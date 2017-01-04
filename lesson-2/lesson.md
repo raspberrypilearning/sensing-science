@@ -38,7 +38,7 @@ In this lesson students will investigate the rate of heat loss through infra-red
 
 ## The data logger
 
-- To access the resources for this investigation, open LXTerminal and type `sudo python3 cooling.py`.
+- To access the resources for this investigation, open LXTerminal and type `sudo python3 cans.py`.
 
 ## Measuring 
 

@@ -19,3 +19,6 @@ By following this resource, students will learn:
 - How humidity and temperature are affected by aerobic respiration
 - That the stopping distance of a car is affected by both the thinking distance and braking distance
 - What factors affect both the thinking distance and braking distance
+
+This resource covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://www.raspberrypi.org/curriculum/):
+
